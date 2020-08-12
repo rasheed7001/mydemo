@@ -1,0 +1,179 @@
+body {
+  background-image: linear-gradient(#FC5E55, #FA4083);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 1.25rem;
+}
+.contine{
+  min-height: 250px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid lightgray;
+
+}
+main {
+  min-height: 250px;
+  font-size: 0.9rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.cards {
+  min-height: 250px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+
+
+}
+.card1 {
+  background-image: url("Img\\image-background-card1-b.jpg");
+  min-height: 250px;
+  background-size: cover;
+  width: 31%;
+}
+
+.card2 {
+  background-image: url("Img\\image-background-card2-b.jpg");
+  min-height: 250px;
+  width: 31%;
+  background-size: cover;
+}
+
+.card3 {
+  background-image: url("Img\\image-background-card3-b.jpg");
+  min-height: 250px;
+  background-size: cover;
+  width: 31%;
+}
+
+input[type=text], input[type=email], textarea {
+  padding: 12px 80px;
+  width: 735px;
+}
+
+.lable2 {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.box2{
+  margin-top: 30px;
+}
+
+.inputwrapper{
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 3.1rem;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 1rem;
+}
+p{
+  line-height: 1.60rem;
+  margin-bottom: 0.4rem;
+}
+h2{
+  font-size: 2.0rem;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 1rem;
+}
+.cards p {
+  font-size: 0.8rem;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.0rem;
+  margin: 10px 30px 20px 30px;
+}
+span {
+  font-size: 20rem;
+  padding-top: 30px;
+}
+.cards a {
+  color: white;
+  text-decoration: none;
+}
+.mybutton {
+  color: #FA4083;
+  text-decoration: none;
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 11px 25px;
+  border-radius: 10px;
+}
+a.mybutton {
+  display: inline-block;
+  margin-top: 10px;
+
+}
+.mybutton:hover {
+  background-color: black;
+  transition-duration: 5s;
+}
+.dropdown {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  padding-top: 15px;
+  text-align: center;
+
+}
+.dropdown .navbutton {
+  width: 132px;
+  background-color: white;
+}
+
+.dropdown .navbutton a{
+  color: green;
+  font-size: 15px;
+}
+
+.navbutton:hover .dropdown {
+  display: block;
+
+}
+
+.dropdown .navbutton:hover {
+  background-color: black;
+  transition-duration: 1ms;
+
+}
+
+
+.navbutton {
+  padding: 11px 25px;
+  border: solid 1px white;
+  display: inline-block;
+  position: relative;
+}
+
+.navbutton a{
+  color: white;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.TESTIMONIALS {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.tbox{
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid white;
+  padding: 30px;
+  font-size: 18px;
+  width: 38%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
