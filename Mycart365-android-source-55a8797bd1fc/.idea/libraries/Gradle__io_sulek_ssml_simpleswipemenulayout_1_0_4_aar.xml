@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sulek.ssml:simpleswipemenulayout:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23e06f4fb2b865b5169691f7d591feb2/simpleswipemenulayout-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23e06f4fb2b865b5169691f7d591feb2/simpleswipemenulayout-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23e06f4fb2b865b5169691f7d591feb2/simpleswipemenulayout-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sulek.ssml/simpleswipemenulayout/1.0.4/1c489b11023eb4dfcb5be7ea375d262d735f7f8e/simpleswipemenulayout-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sulek.ssml/simpleswipemenulayout/1.0.4/3bcadda576372cb7458961bed6d7c3e6ec283a1e/simpleswipemenulayout-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

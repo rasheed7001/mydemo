@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/app_bg_blue" android:state_selected="true" android:color="@color/splash_blue"></item>
+    <item android:drawable="@color/app_bg_blue" android:state_pressed="true" android:color="@color/splash_blue"></item>
+    <item android:drawable="@color/bg_unselected" android:color="@color/dark_grey"></item>
+</selector>

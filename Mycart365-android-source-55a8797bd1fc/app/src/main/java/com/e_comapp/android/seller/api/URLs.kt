@@ -1,0 +1,27 @@
+package com.e_comapp.android.seller.api
+
+object URLs {
+    const val BASE_URL = "http://allupdates360.com/ecom/api/"
+    const val SELLER_REG_LOGIN = "v1/seller/seller_reg_login"
+    const val SELLER_OTP_VERIFY = "v1/seller/otp_verify"
+    const val SELLER_UPDATE_DETAILS = "v1/seller/update_seller"
+    const val SELLER_ADD_PRODUCT = "v1/seller/add_product"
+    const val SELLER_PRODUCT_LIST = "v1/get_seller_prod_list"
+    const val SELLER_EDIT_PRODUCT = "v1/edit_product"
+    const val SELLER_DELETE_PRODUCT = "v1/delete_product"
+    const val APP_DEFAULTS = "v1/defaults/app_defaults"
+    const val CUST_REG_LOGIN = "v1/users/cust_reg_login"
+    const val OTP_VERIFTY = "v1/users/otp_verify"
+    const val CUST_UPDATE_DETAILS = "v1/users/cust_update_details"
+    const val CUST_SELLERS = "v1/users/get_cust_sellers"
+    const val CUST_CATEGORY_LIST = "v1/users/get_cust_cate_list_by_seller"
+    const val CUST_PRODUCT_LIST = "v1/users/get_cust_prod_list_by_seller_cate"
+    const val CUST_CHECK_PRODUCT_QTY = "v1/users/check_product_qty"
+    const val PLACE_ORDER = "v1/users/place_order"
+    const val COMPLETE_ORDER_TRANSACTION = "v1/users/complete_order_transaction"
+    const val CUST_SAVE_DELIVERY_ADDRESS = "v1/users/save_delivery_address"
+    const val CUST_GET_DELIVERY_ADDRESS = "v1/users/get_delivery_address"
+    const val CUST_DELETE_DELIVERY_ADDRESS = "v1/users/delete_delivery_address"
+    const val CUST_ORDER_LIST = "v1/users/get_orders_list"
+    const val CUST_GET_PROMO_CODE = "v1/users/get_seller_promocode_list"
+}
